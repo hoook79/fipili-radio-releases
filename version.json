@@ -3,7 +3,8 @@
   "versionName": "1.1.1",
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "notes": "TEST FINALE POPUP: Verifica della correzione del tasto CHIUDI e del flusso di installazione automatico.",
-  "publishedAt": "2026-04-21T22:40:00Z",
+  "forcePopup": true,
+  "notes": "VERSIONE 1.1.1: Fix tasto CHIUDI (ora manda in background) e supporto getAppVersionInfo nativo.",
+  "publishedAt": "2026-04-21T22:50:00Z",
   "sha256": ""
 }
