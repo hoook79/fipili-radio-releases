@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
+  "versionCode": 12,
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "notes": "TEST AGGIORNAMENTO AUTOMATICO: Questa versione serve per verificare che il nuovo flusso di installazione senza interruzioni funzioni correttamente.",
-  "publishedAt": "2026-04-21T22:36:00Z",
+  "notes": "TEST FINALE POPUP: Verifica della correzione del tasto CHIUDI e del flusso di installazione automatico.",
+  "publishedAt": "2026-04-21T22:40:00Z",
   "sha256": ""
 }
