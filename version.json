@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "notes": "Risolto LOOP AGGIORNAMENTO: ora l'app legge la versione direttamente dal sistema Android per garantire un confronto infallibile. Nota: aggiornamento non piÃ¹ obbligatorio per i test.",
-  "publishedAt": "2026-04-21T22:28:00Z",
+  "notes": "Fix CRITICO: risolto problema accesso canali. Ora tutte le funzioni JS sono correttamente sincronizzate all'interno dell'APK.",
+  "publishedAt": "2026-04-21T22:33:00Z",
   "sha256": ""
 }
