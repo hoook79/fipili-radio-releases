@@ -5,7 +5,7 @@
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
   "forcePopup": true,
-  "notes": "VERSIONE 1.1.2: Test aggiornamento forzato con protezione Hard Gate attiva.",
-  "publishedAt": "2026-04-21T22:57:00Z",
+  "notes": "VERSIONE 1.1.2: Unificata detection ambiente nativo e risolto bug del tasto chiudi.",
+  "publishedAt": "2026-04-21T23:12:00Z",
   "sha256": ""
 }
