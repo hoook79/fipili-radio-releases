@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "notes": "Fix crash notifiche e rimosso popup installazione PWA nell'APK nativa.",
-  "publishedAt": "2026-04-21T19:50:00Z",
+  "notes": "Fix schermo nero e riallineamento OTA. Versione stabile 1.0.2.",
+  "publishedAt": "2026-04-21T20:00:00Z",
   "sha256": ""
 }
