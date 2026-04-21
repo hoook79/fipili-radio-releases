@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "notes": "Migliorata procedura di installazione automatica OTA.",
-  "publishedAt": "2026-04-21T21:42:00Z",
+  "notes": "Riparata installazione automatica (permessi REQUEST_INSTALL_PACKAGES aggiunti).",
+  "publishedAt": "2026-04-21T21:46:00Z",
   "sha256": ""
 }
