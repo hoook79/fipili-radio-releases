@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.2",
+  "versionCode": 15,
+  "versionName": "1.1.4",
   "minVersionCode": 8,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "forcePopup": false,
-  "notes": "VERSIONE 1.1.2: Unificata detection ambiente nativo e risolto bug del tasto chiudi.",
-  "publishedAt": "2026-04-22T08:48:00Z",
+  "forcePopup": true,
+  "notes": "Patch correzione accesso e PIN (gestione identità GAS).",
+  "publishedAt": "2026-04-22T15:42:00Z",
   "sha256": ""
 }
