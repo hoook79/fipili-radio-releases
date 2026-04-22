@@ -5,7 +5,7 @@
   "requiresCleanInstallBelow": 21,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "forcePopup": true,
+  "forcePopup": false,
   "notes": "Fix critico logica aggiornamenti OTA e ottimizzazione caricamento bridge nativo.",
   "publishedAt": "2026-04-22T18:52:00Z",
   "sha256": ""
