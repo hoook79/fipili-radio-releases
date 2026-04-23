@@ -1,12 +1,12 @@
 {
-  "versionCode": 26,
-  "versionName": "1.2.5",
+  "versionCode": 27,
+  "versionName": "1.2.6",
   "minVersionCode": 8,
   "requiresCleanInstallBelow": 21,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
   "forcePopup": false,
-  "notes": "Fix download APK con gestione redirect GitHub e fallback browser.",
-  "publishedAt": "2026-04-22T19:33:00Z",
+  "notes": "Bugfix: crash Notifiche Push in home risolto. Gestione tasto indietro migliorata. Fix audio Bluetooth autoradio (forzata modalità media per evitare interruzioni musicali).",
+  "publishedAt": "2026-04-23T08:00:00Z",
   "sha256": ""
 }
