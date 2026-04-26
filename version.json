@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "1.2.7",
+  "versionCode": 29,
+  "versionName": "1.2.8",
   "minVersionCode": 8,
   "requiresCleanInstallBelow": 21,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "forcePopup": true,
-  "notes": "Fix definitivo audio Bluetooth/Android Auto: rimosso completamente l'audio focus per permettere l'overlay stile ChatGPT senza interrompere la musica.",
-  "publishedAt": "2026-04-26T20:50:00Z",
+  "forcePopup": false,
+  "notes": "Risolto il loop di aggiornamento e aggiunta la versione visibile a fondo pagina sull'app nativa Android.",
+  "publishedAt": "2026-04-26T21:00:00Z",
   "sha256": ""
 }
