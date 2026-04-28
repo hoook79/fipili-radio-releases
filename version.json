@@ -5,7 +5,7 @@
   "requiresCleanInstallBelow": 21,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "forcePopup": false,
+  "forcePopup": true,
   "notes": "Patch sperimentale per Bluetooth Auto: logica audio focus rimossa e PTT disabilitabile in modalità Auto.",
   "publishedAt": "2026-04-28T19:00:00Z",
   "sha256": ""
