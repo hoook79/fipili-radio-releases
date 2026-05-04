@@ -1,12 +1,12 @@
 {
-  "versionCode": 30,
-  "versionName": "1.2.9",
+  "versionCode": 32,
+  "versionName": "1.3.1",
   "minVersionCode": 8,
   "requiresCleanInstallBelow": 21,
   "apkUrl": "https://github.com/hoook79/fipili-radio-releases/releases/latest/download/radio-dannati-fipili.apk",
   "mandatory": false,
-  "forcePopup": false,
-  "notes": "Patch sperimentale per Bluetooth Auto: logica audio focus rimossa e PTT disabilitabile in modalità Auto.",
-  "publishedAt": "2026-04-28T19:00:00Z",
+  "forcePopup": true,
+  "notes": "Restyling grafico totale: Dark/Red Radio Traffic mode.",
+  "publishedAt": "2026-05-04T13:10:00Z",
   "sha256": ""
 }
